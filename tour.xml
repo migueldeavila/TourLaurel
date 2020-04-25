@@ -79,9 +79,9 @@
 	
 	
 
-	<layer name="map" y="13%" url="minimap_down.png" keep="true" handcursor="false" capture="false" align="leftbottom" scale="0.25" scale.mobile="0.12" scalechildren="true" />
-	<layer name="map2" y = "13%" url="minimap_up.png" keep="true" handcursor="false" capture="false" align="leftbottom" scale="0.25" scale.mobile="0.12" scalechildren="true" visible="false"/>
-	<layer name="mapout" y = "13%" url="minimap_out.png" keep="true" handcursor="false" capture="false" align="leftbottom" scale="0.25" scale.mobile="0.12" scalechildren="true" visible="false"/>
+	<layer name="map" y="13%" url="minimap_down.png" keep="true" handcursor="false" capture="false" align="leftbottom" scale="0.25" scale.mobile="0.19" scalechildren="true" />
+	<layer name="map2" y = "13%" url="minimap_up.png" keep="true" handcursor="false" capture="false" align="leftbottom" scale="0.25" scale.mobile="0.19" scalechildren="true" visible="false"/>
+	<layer name="mapout" y = "13%" url="minimap_out.png" keep="true" handcursor="false" capture="false" align="leftbottom" scale="0.25" scale.mobile="0.19" scalechildren="true" visible="false"/>
 
 	<style name="mapspot" keep="true" url="camicon.png" parent="map" align="lefttop" edge="center" scale.mobile="2"/>
 	<style name="mapspot2" keep="true" url="camicon.png" parent="map2" align="lefttop" edge="center" scale.mobile="2"/>
